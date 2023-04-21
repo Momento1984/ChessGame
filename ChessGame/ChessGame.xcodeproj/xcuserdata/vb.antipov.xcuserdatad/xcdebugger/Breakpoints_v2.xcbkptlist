@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "543B8781-335B-469B-A767-29061F70BF14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52071D59-812F-4B02-9447-F2F11C589058"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChessGame/viewModel/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "boardColor(i:j:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52071D59-812F-4B02-9447-F2F11C589058 - d6341210c3ebd12f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChessGame.GameViewModel.boardColor(i: Swift.Int, j: Swift.Int) -&gt; SwiftUI.Color"
+                  moduleName = "ChessGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb.antipov/projects/playgrounds/ChessGame/ChessGame/viewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "52071D59-812F-4B02-9447-F2F11C589058 - 2ebb241d4026e30d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChessGame.Coord) -&gt; Swift.Bool in ChessGame.GameViewModel.boardColor(i: Swift.Int, j: Swift.Int) -&gt; SwiftUI.Color"
+                  moduleName = "ChessGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb.antipov/projects/playgrounds/ChessGame/ChessGame/viewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
